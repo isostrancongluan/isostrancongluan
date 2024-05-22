@@ -10,4 +10,3 @@
 isostrancongluan/isostrancongluan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![shi-zalo-lgtm](https://github.com/isostrancongluan/isostrancongluan/assets/157664666/a2c18f74-0446-4315-ba5e-c78f7dc1b74b)
